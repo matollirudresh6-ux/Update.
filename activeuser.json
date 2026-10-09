@@ -7,10 +7,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
+        "device_id": "d20b69d54febb063",
+        "username": "Mithun",
+        "password": "mit@123",
         "expirydate": "15-06-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
