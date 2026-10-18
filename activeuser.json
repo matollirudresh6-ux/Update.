@@ -19,5 +19,12 @@
         "password": "mit@123",
         "expirydate": "16-10-2026",
         "Allowoffline": true
-    }    
+    }, 
+    {
+        "device_id": "c12e5e705e5ede2c",
+        "username": "copyid",
+        "password": "copy#123",
+        "expirydate": "26-10-2026",
+        "Allowoffline": true
+    }  
 ]
