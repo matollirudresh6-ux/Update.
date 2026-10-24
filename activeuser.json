@@ -26,12 +26,12 @@
         "password": "copy#123",
         "expirydate": "26-10-2026",
         "Allowoffline": true
-    }  
+    },  
     {
         "device_id": "5e01dadcea0bf967",
-        "username": "copyid",
-        "password": "copy#123",
-        "expirydate": "26-10-2027",
+        "username": "json",
+        "password": "json#123",
+        "expirydate": "26-10-2026",
         "Allowoffline": true
     }
 ]
